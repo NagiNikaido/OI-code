@@ -1,6 +1,6 @@
 OI-code
 =======
 
-#void void void#
+*void void void*
 
 This 
